@@ -7,7 +7,7 @@ It works across system and third-party apps **without modifying any app code**.
 
 ## ✅ Minimum Android Version
 
-- **Android 13 and higher** → Success rate ~95–100%  
+- **Android 14 and higher** → Success rate ~95–100%  
 - **Below Android 13** → Only partial functionality (~50–67%)  
 - ROMs **without built-in AOD** (e.g., LineageOS) → custom AOD **will not appear**
 
