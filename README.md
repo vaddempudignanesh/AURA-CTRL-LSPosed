@@ -63,7 +63,7 @@ It works across system and third-party apps **without modifying any app code**.
 ### Status Bar Customizations
 - Gradient & solid battery bars  
 - Percentage-based battery bars  
-- Slide/pulsating animations (left → right / right → left)  
+- Slide/pulsating animations (left → right / right → left/ swiping at edges)  
 - Clock styles in status bar  
 - Battery icon styles  
 
