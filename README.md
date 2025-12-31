@@ -16,16 +16,16 @@ It works across system and third-party apps **without modifying any app code**.
 
 ---
 
-🔧 How This App Works
+## 🔧 How This App Works
 
-SystemUI selection is required for all Activity, Window, Status Bar, AOD, and UI animations.
+- **SystemUI selection** is required for all Activity, Window, Status Bar, AOD, and Gesture Triggers animations.
 
-List Animations require selecting any user app (for example: Settings, or any app of your choice in LSPosed manager).
+- List Animations require selecting any user app (for example: Settings or any app of your choice).
 
-Boot Animations do not require selecting any app — they work system-wide after being applied.
+- Boot Animations do not require selecting any app — they work system-wide after being applied
 
-AURA CTRL modifies UI/UX behavior at runtime only.
-No app code is changed, patched, or permanently modified.
+- **AURA CTRL modifies UI/UX behavior at runtime only.**
+- No app code is changed, patched, or permanently modified.
 
 ## 🌟 Features
 
