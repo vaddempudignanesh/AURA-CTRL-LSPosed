@@ -91,7 +91,7 @@ No app code is changed, patched, or permanently modified.
 
 ---
 ## 📥 Download
-[Download AURA CTRL v1.0 APK](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases/download/v1.0/AURA_CTRL_v1.0_LSPosed.apk)
+[Download AURA CTRL v1.0_LSPosed APK](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases/download/v1.0/AURA_CTRL_v1.0_LSPosed.apk)
 
 ---
 
