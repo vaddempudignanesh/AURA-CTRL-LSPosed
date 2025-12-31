@@ -86,9 +86,11 @@ It works across system and third-party apps **without modifying any app code**.
 ---
 
 ## ⚠️ Disclaimer
-AURA CTRL is **safe and does not alter app logic**.  
-Designed for **customizing UI/UX only**.  
-Always verify APK integrity before installing.
+
+- AURA CTRL is **safe and modifies UI/UX at runtime only**.  
+- ❌ Does **not modify app code** or system files permanently.  
+- ⚠️ **Use at your own risk**. The developer is **not responsible for any damage**, including bricked devices.  
+- Always verify your APK before installing and ensure you have proper backups.
 
 ---
 
