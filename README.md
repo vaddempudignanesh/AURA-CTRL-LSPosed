@@ -1,6 +1,6 @@
 # AURA CTRL — LSPosed Module (Android 13+)
 
-**AURA CTRL** is an **LSPosed module** providing system-wide **activity, window**  **list animations**, **Status Bar tweaks**, **Always-On Display (AOD) customization**, **gesture triggers**, and **boot animations** for Android 13 and above.  
+**AURA CTRL** is an **LSPosed module** providing system-wide **activity, window**  **list animations**, **Status Bar tweaks**, **Always-On Display (AOD) customization**, **gesture triggers**, and **boot animations** for Android 14 and above.  
 It works across system and third-party apps **without modifying any app code**.
 
 ---
