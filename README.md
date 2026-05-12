@@ -163,3 +163,21 @@ Dotted Circle • Circle • Text Only • Portrait (Vertical) • Landscape (Ho
 > **⚠️ Compatibility Note:** Works perfectly on Android 14-15 across all ROMs. On Android 16, some custom ROMs may have limited support due to SystemUI changes.
 
 ---
+## 🎨 **BATTERY COLOR CUSTOMIZATION**
+
+<p align="center">
+Change battery icon color and percentage text color to match your theme
+</p>
+
+<p align="center">
+  <img src="Images/battery-icon-color.jpg" width="600" alt="Battery Icon Color"/>
+</p>
+
+<p align="center">
+<b>✨ What You Can Customize:</b><br>
+• Battery Icon Color • Battery Percentage Text Color
+</p>
+
+> **⚠️ Compatibility Note:** Works perfectly on Android 14-15 across all ROMs. On Android 16, some custom ROMs may have limited support due to SystemUI changes.
+
+---
