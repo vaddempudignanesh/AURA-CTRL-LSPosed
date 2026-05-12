@@ -140,3 +140,26 @@ Swirl • Wave • Stretch • Zoom • 3D Sphere • 3D Dice • 3D Diamond •
 > **Tip:** Works best with apps like messaging apps, social media, file managers — anywhere lists appear!
 
 ---
+## 🔋 **BATTERY CUSTOMIZATION**
+
+<p align="center">
+Customize your battery icon and percentage text color
+</p>
+
+<p align="center">
+  <img src="Images/battery-icon-shapes.jpg" width="600" alt="Battery Icon Shapes"/>
+</p>
+
+<p align="center">
+<b>Available Battery Styles:</b><br>
+Dotted Circle • Circle • Text Only • Portrait (Vertical) • Landscape (Horizontal)
+</p>
+
+<p align="center">
+<b>🎨 Customization Options:</b><br>
+• Battery Icon Color • Percentage Text Color
+</p>
+
+> **⚠️ Compatibility Note:** Works perfectly on Android 14-15 across all ROMs. On Android 16, some custom ROMs may have limited support due to SystemUI changes.
+
+---
