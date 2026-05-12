@@ -120,6 +120,23 @@ Color • Opacity • Offset • Gradient • Roundness • Top/Left/Right/Botto
 
 ---
 
-## ✨ **FEATURES SHOWCASE**
+## 🎬 **LIST ANIMATIONS**
+
+<p align="center">
+Works on ANY app downloaded from Play Store — system apps, social media, browsers, you name it!<br>
+Choose your favorite app in LSPosed Manager and enjoy stunning animations everywhere.
+</p>
+
+<p align="center">
+  <img src="Images/listanimations.jpeg" width="600" alt="List Animations Preview"/>
+</p>
+
+<p align="center">
+<b>🎨 30+ Customizable Animation Effects:</b><br>
+DNA Double Helix • Tada • Heartbeat • 3D Flip • Cosmic Burst • Scale & Bounce<br>
+Swirl • Wave • Stretch • Zoom • 3D Sphere • 3D Dice • 3D Diamond • and many more!
+</p>
+
+> **Tip:** Works best with apps like messaging apps, social media, file managers — anywhere lists appear!
 
 ---
