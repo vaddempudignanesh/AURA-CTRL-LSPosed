@@ -83,6 +83,42 @@ Contains 35+ boot animations with GIF previews - one-time download saves 200+ MB
 > **Note:** All 35+ boot animations are available in the app with live GIF previews before applying!
 
 ---
+## 🎵 **PULSE ANIMATION**
+
+<p align="center">
+Audio visualizer that appears on screen edges — works EVERYWHERE!<br>
+✅ Lockscreen • ✅ Homescreen • ✅ All apps • ✅ While charging
+</p>
+
+<p align="center">
+<b>Full Customization Available:</b><br>
+Color • Opacity • Offset • Gradient • Roundness • Top/Left/Right/Bottom edges
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🎨 Pulse Blue</b></td>
+    <td align="center"><b>🎨 Pulse Green</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Images/pulse-blue.jpeg" width="300" alt="Pulse Blue Animation"/>
+    </td>
+    <td align="center">
+      <img src="Images/pulse-green.jpeg" width="300" alt="Pulse Green Animation"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>🎨 Pulse Yellow</b><br>
+      <img src="Images/pulse-yellow.jpeg" width="300" alt="Pulse Yellow Animation"/>
+    </td>
+  </tr>
+</table>
+
+> **Pro Tip:** Disable system built-in pulse for best results! AuraCtrl pulse works everywhere.
+
+---
 
 ## ✨ **FEATURES SHOWCASE**
 
