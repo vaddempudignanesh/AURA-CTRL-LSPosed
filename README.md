@@ -180,7 +180,6 @@ Change battery icon color and percentage text color to match your theme
 
 > **⚠️ Compatibility Note:** Works perfectly on Android 14-15 across all ROMs. On Android 16, some custom ROMs may have limited support due to SystemUI changes.
 
----
 ## 🪄 **ACTIVITY & WINDOW ANIMATIONS**
 
 <p align="center">
@@ -188,21 +187,25 @@ Customize app opening and closing transitions with <b>60+ animation effects</b>!
 </p>
 
 <p align="center">
-<i>Watch these demo videos to see the smooth animations in action</i>
+<i>Click below to download demo videos and see the smooth animations in action</i>
 </p>
 
 <table align="center">
   <tr>
-    <td align="center"><b>⬅️ Slide Left Animation</b></td>
-    <td align="center"><b>⬆️ Slide Up Animation</b></td>
+    <td align="center"><b>⬅️ Slide Left Animation</b><br>
+      <a href="Videos/slide-left.mp4">📥 Download Demo Video</a>
+    </td>
+    <td align="center"><b>⬆️ Slide Up Animation</b><br>
+      <a href="Videos/slide-up.mp4">📥 Download Demo Video</a>
+    </td>
   </tr>
   <tr>
     <td align="center">
-      <video src="Videos/slide-left.mp4" width="300" controls/>
+      <img src="https://img.shields.io/badge/Preview-Slide_Left-blue?style=for-the-badge" alt="Slide Left"/>
     </td>
     <td align="center">
-      <video src="Videos/slide-up.mp4" width="300" controls/>
-    </td>
+      <img src="https://img.shields.io/badge/Preview-Slide_Up-blue?style=for-the-badge" alt="Slide Up"/>
+     </td>
   </tr>
 </table>
 
@@ -214,7 +217,7 @@ Particle Swarm • Rubber Band Jiggle • Ink Blot • Starfield • Slow Drifti
 and many more — explore all in the app!
 </p>
 
-> 💡 **Tip:** Watch the videos above to understand how smooth these animations make your device feel!
+> 💡 **Tip:** Download the demo videos above to see how smooth these animations make your device feel!
 
 ---
 
@@ -248,4 +251,5 @@ This project is under <b>active maintenance</b> by me
 
 <div align="center">
   Made with ❤️ by <b>VADDEMPUDI GNANESH</b>
+</div>
 </div>
