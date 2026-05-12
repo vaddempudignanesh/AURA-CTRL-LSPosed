@@ -181,3 +181,71 @@ Change battery icon color and percentage text color to match your theme
 > **⚠️ Compatibility Note:** Works perfectly on Android 14-15 across all ROMs. On Android 16, some custom ROMs may have limited support due to SystemUI changes.
 
 ---
+## 🪄 **ACTIVITY & WINDOW ANIMATIONS**
+
+<p align="center">
+Customize app opening and closing transitions with <b>60+ animation effects</b>!
+</p>
+
+<p align="center">
+<i>Watch these demo videos to see the smooth animations in action</i>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>⬅️ Slide Left Animation</b></td>
+    <td align="center"><b>⬆️ Slide Up Animation</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="Videos/slide-left.mp4" width="300" controls/>
+    </td>
+    <td align="center">
+      <video src="Videos/slide-up.mp4" width="300" controls/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+<b>🎬 60+ Animation Effects Available (Showing 2 as examples):</b><br>
+Counter Spiral • Accordion Fold • Slow Fade + Slide • Fast Slide & Hold • Micro Bounce<br>
+Jigsaw Fit • Multi Quick Shift • Venetian Blind • Card Shuffle • Domino Fall<br>
+Particle Swarm • Rubber Band Jiggle • Ink Blot • Starfield • Slow Drifting<br>
+and many more — explore all in the app!
+</p>
+
+> 💡 **Tip:** Watch the videos above to understand how smooth these animations make your device feel!
+
+---
+
+## 🖐️ **GESTURE TRIGGERS**
+
+<p align="center">
+Launch any app or trigger actions by swiping from screen edges!
+</p>
+
+<p align="center">
+<b>Available Triggers:</b><br>
+⬅️ Left Edge • ➡️ Right Edge • ⬆️ Top Edge • ⬇️ Bottom Edge
+</p>
+
+<p align="center">
+<b>Actions You Can Assign:</b><br>
+🚀 Launch Any App • ⚙️ Open Settings • 🔦 Flashlight • 💀 Kill App • 📱 Quick Settings • ❌ Do Nothing
+</p>
+
+> **Tip:** Set different actions for each edge — personalize your device like never before!
+
+---
+
+## 🔄 **MAINTENANCE STATUS**
+
+<p align="center">
+This project is under <b>active maintenance</b> by me
+</p>
+
+---
+
+<div align="center">
+  Made with ❤️ by <b>VADDEMPUDI GNANESH</b>
+</div>
