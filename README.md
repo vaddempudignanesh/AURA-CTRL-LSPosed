@@ -17,7 +17,26 @@
 
 ---
 
-## 📹 **DEMO VIDEOS**
+## 🖼️ **VIDEO WALLPAPER**
+
+<p align="center">
+Set any MP4 video as your live wallpaper with audio control
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🎬 Video Wallpaper Example 1</b></td>
+    <td align="center"><b>🎬 Video Wallpaper Example 2</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Images/video-wallpaper-1.jpeg" width="300" alt="Video Wallpaper Demo 1"/>
+    </td>
+    <td align="center">
+      <img src="Images/video-wallpaper-2.jpeg" width="300" alt="Video Wallpaper Demo 2"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
