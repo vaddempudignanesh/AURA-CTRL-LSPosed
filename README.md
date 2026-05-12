@@ -1,116 +1,283 @@
-# AURA CTRL — LSPosed Module (Android 13+)
+<div align="center">
 
-**AURA CTRL** is an **LSPosed module** providing system-wide **activity, window**  **list animations**, **Status Bar tweaks**, **Always-On Display (AOD) customization**, **gesture triggers**, and **boot animations** for Android 14 and above.  
-It works across system and third-party apps **without modifying any app code**.
+# 🎨 AURA CTRL — The Ultimate LSPosed Module
 
----
+<img src="Images/video-wallpaper-1.mp4" width="800" alt="AuraCtrl Banner"/>
 
-## ✅ Minimum Android Version
+[![Android](https://img.shields.io/badge/Android-14%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+[![LSPosed](https://img.shields.io/badge/LSPosed-Compatible-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/LSPosed/LSPosed)
+[![Version](https://img.shields.io/github/v/release/vaddempudignanesh/AURA-CTRL-LSPosed?style=for-the-badge&logo=github&color=blue)](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases)
+[![Downloads](https://img.shields.io/github/downloads/vaddempudignanesh/AURA-CTRL-LSPosed/total?style=for-the-badge&logo=github&color=orange)](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases)
+[![Size](https://img.shields.io/github/repo-size/vaddempudignanesh/AURA-CTRL-LSPosed?style=for-the-badge&logo=github&color=critical)](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed)
 
-- **Android 14 and higher** → Success rate ~95–100%  
-- **Below Android 13** → Only partial functionality (~50–67%)  
-- ROMs **without built-in AOD** (e.g., LineageOS) → custom AOD **will not appear**
+<h3>Complete Android Customization Suite</h3>
+<p>Pulse Animations • Status Bar Tweaks • List Animations • Boot Animations • Video Wallpaper • Gesture Triggers</p>
 
----
+[📥 Download Now](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases/download/v2.0/AURA_CTRL_v2.0.apk) &nbsp;&nbsp; [📖 Documentation](#-features) &nbsp;&nbsp; [📹 Watch Demos](#-demo-videos)
 
-## 🔧 How This App Works
-
-- **SystemUI selection** is required for all Activity, Window, Status Bar, AOD, and Gesture Triggers animations.
-
-- List Animations require selecting any user app (for example: Settings or any app of your choice).
-
-- Boot Animations do not require selecting any app — they work system-wide after being applied
-
-- **AURA CTRL modifies UI/UX behavior at runtime only.**
-- No app code is changed, patched, or permanently modified.
-
-## 🌟 Features
-
-### Activity & Window Animations (Recommended)
-- Counter Spiral (19) – Smooth, centered motion  
-- Slow Drifting (47) – Very subtle, elegant  
-- Particle Swarm (32) – Multi-element effect  
-- Jigsaw Fit (27) – Puzzle pieces fitting  
-- Multi Quick Shift (28) – Rapid small shifts  
-- Venetian Blind (29) – Staggered reveal  
-- Domino Fall (31) – Cascading effect  
-- Card Shuffle (30) – Deck fanning  
-- Starfield (38) – Particle animation  
-- Accordion Fold (20) – Pleated effect  
-- Micro Bounce (25) – Subtle bounce  
-- Rubber Band Jiggle (33) – Elastic effect  
-- Ink Blot (34) – Spreading effect  
-- Clockwise Spiral – Rotational animation  
-- Slow Fade + Slide (21) – Combined effect  
-- Fast Slide & Hold (22) – Snappy entrance  
-
-### List Animations (Recommended IDs)
-
-- Works across any app, system or third-party  
-- IDs correspond to **DNA Double Helix, Tada, Heartbeat, Flip, 3D Sphere/Dice/Diamond, Cosmic Burst, Scale & Bounce, Swirl, Zoom, Stretch, Wave**
+</div>
 
 ---
 
-### Always-On Display (AOD)
-- Premium: Solar System, Eclipse Clock, Cyber Pulse, Quantum Orb, Analog Clock with Colors, Neon Matrix, Star Field Moon  
-- OEM/Classic: iPhone/iOS, Google Pixel, HyperOS, Nothing AOD, Dual Timezone, Pixel Concentric, Half Concentric, Big Clock, Text Clock  
-- Expressive: Lava Lamp, Neon Wave, Hologram 3D, Rainbow Spectrum, Stellar Nebula, Pixel Flow, Neon Grid, Retro Arcade, Time Vortex
+## 📹 **DEMO VIDEOS**
 
-> ⚠️ AOD will only appear if ROM includes a built-in AOD
+<table>
+  <tr>
+    <td align="center"><b>🎵 Pulse Animation</b><br><i>Audio visualizer on screen edges</i></td>
+    <td align="center"><b>📱 Status Bar Tweaks</b><br><i>Customize clock, battery, icons</i></td>
+    <td align="center"><b>🎬 List Animations</b><br><i>60+ animation effects</i></td>
+  </tr>
+  <tr>
+    <td><video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/pulse-bars.mp4" width="250" controls/></td>
+    <td><video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/SatusBar-Tweaks.mp4" width="250" controls/></td>
+    <td><video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/ListAnimations.mp4" width="250" controls/></td>
+  </tr>
+</table>
 
----
+<table>
+  <tr>
+    <td align="center"><b>🎬 Boot Animations</b><br><i>CyanogenMod style</i></td>
+    <td align="center"><b>🐉 Boot Animations</b><br><i>Kali Linux style</i></td>
+    <td align="center"><b>🖼️ Video Wallpaper</b><br><i>Live video background</i></td>
+  </tr>
+  <tr>
+    <td><video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/cyanogenmod-bootanimation.mp4" width="250" controls/></td>
+    <td><video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/kali-linux-bootanimation.mp4" width="250" controls/></td>
+    <td><video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/video-wallpaper-1.mp4" width="250" controls/></td>
+  </tr>
+</table>
 
-### Status Bar Customizations
-- Gradient & solid battery bars  
-- Percentage-based battery bars  
-- Slide/pulsating animations (left → right / right → left/ swiping at edges)  
-- Clock styles in status bar  
-- Battery icon styles  
+<table>
+  <tr>
+    <td align="center"><b>🖼️ Video Wallpaper Demo 2</b></td>
+    <td align="center"><b>🎬 Boot Animation Preview</b></td>
+    <td align="center"><b>📱 Full Demo</b></td>
+  </tr>
+  <tr>
+    <td><video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/video-wallpaper-2.mp4" width="250" controls/></td>
+    <td><img src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Images/battery-icon-shapes.jpg" width="250"/></td>
+    <td><video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/VID_20260513_012130.mp4" width="250" controls/></td>
+  </tr>
+</table>
 
----
-
-### Gesture Triggers
-- Do Nothing  
-- Open Settings  
-- Flashlight  
-- Kill App  
-- Quick Settings  
-- Launch App  
-
----
-
-## 🔐 How It Works
-- **All modifications are runtime-only**  
-- ❌ Does **not modify any app code**  
-- ❌ Does **not patch APKs**  
-- Only changes **UI / UX behavior** at runtime  
-- Safe to use across **system and third-party apps**  
-
----
-## 📥 Download
-[Download AURA CTRL v2.0_LSPosed APK](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases/download/v2.0/AURA_CTRL_v2.0.apk)
-
----
-
-## ⚠️ Disclaimer
-
-- AURA CTRL is **safe and modifies UI/UX at runtime only**.  
-- ❌ Does **not modify app code** or system files permanently.  
-- ⚠️ **Use at your own risk**. The developer is **not responsible for any damage**, including bricked devices.  
-- Always verify your APK before installing and ensure you have proper backups.
+> 🎥 **Click play on any video to see the feature in action!**
 
 ---
 
+## ✨ **FEATURES SHOWCASE**
 
-- LSPosed module  
-- Android 13+  
-- SystemUI animations  
-- Activity & window animations  
-- List animations  
-- Always-On Display (AOD)  
-- Status bar customization  
-- Gesture triggers  
-- Runtime UI modifications
+### 🎵 Pulse Animation
+<p align="center">
+  <video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/pulse-bars.mp4" width="800" controls/>
+</p>
 
-  
-Made with ❤️ by VADDEMPUDI GNANESH
+> **Audio visualizer that appears on screen edges — works EVERYWHERE!**  
+> ✅ Lockscreen • ✅ Homescreen • ✅ All apps • ✅ While charging
+
+**Customizable:**
+- 🎨 Color modes: Solid, Custom Gradient, Rainbow
+- 📊 Sensitivity, bar height, width, roundness, opacity
+- 📍 Per-edge visibility (Top/Bottom/Left/Right)
+
+---
+
+### 📱 Status Bar Customizations
+<p align="center">
+  <video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/SatusBar-Tweaks.mp4" width="800" controls/>
+</p>
+
+| Feature | Options |
+|---------|---------|
+| **Battery Icon Color** | Choose any color for the battery icon |
+| **Battery Text Color** | Customize percentage text color |
+| **Clock Format** | 12-hour, 24-hour, with/without seconds |
+| **Battery Style** | Icon only, text only, both (ROMSpecific) |
+
+<p align="center">
+  <img src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Images/battery-icon-color.jpg" width="300"/>
+  <img src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Images/battery-icon-shapes.jpg" width="300"/>
+</p>
+
+---
+
+### 🎬 List Animations (60+ Effects!)
+<p align="center">
+  <video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/ListAnimations.mp4" width="800" controls/>
+</p>
+
+**Popular Animation IDs:**
+- 60: DNA Double Helix | 52: Tada | 53: Heartbeat
+- 41: Flip | 50: 3D Sphere | 51: 3D Dice Roll
+- 57: 3D Diamond | 59: Cosmic Burst | 26: Scale & Bounce
+- 42: Swirl | 20: Zoom | 22: Stretch | 40: Wave Effect
+
+---
+
+### 🎬 Boot Animation Manager (35+ Animations!)
+<p align="center">
+  <img src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Images/cyanogenmod-bootanimation.mp4" width="400"/>
+  <img src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Images/kali-linux-bootanimation.mp4" width="400"/>
+</p>
+
+**One-time download (saves 200+ MB APK space!)**
+
+| Popular Animations | Preview |
+|-------------------|---------|
+| CyanogenMod | [Watch](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/cyanogenmod-bootanimation.mp4) |
+| Kali Linux | [Watch](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/kali-linux-bootanimation.mp4) |
+| ASUS-ROG | Built-in |
+| EvolutionX | Built-in |
+| OxygenOS | Built-in |
+| crDroid | Built-in |
+| Google Pixel | Built-in |
+
+[⬇️ **Browse all 35+ animations with GIF previews in the app**]
+
+---
+
+### 🖼️ Video Wallpaper
+<p align="center">
+  <video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/video-wallpaper-1.mp4" width="400" controls/>
+  <video src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Videos/video-wallpaper-2.mp4" width="400" controls/>
+</p>
+
+> Set any MP4 video as live wallpaper | Audio mute/unmute support | Persistent across reboots
+
+---
+
+### 🪄 Activity & Window Animations
+
+| ID | Name | ID | Name |
+|----|------|----|------|
+| 19 | Counter Spiral | 20 | Accordion Fold |
+| 21 | Slow Fade + Slide | 22 | Fast Slide & Hold |
+| 25 | Micro Bounce | 27 | Jigsaw Fit |
+| 28 | Multi Quick Shift | 29 | Venetian Blind |
+| 30 | Card Shuffle | 31 | Domino Fall |
+| 32 | Particle Swarm | 33 | Rubber Band Jiggle |
+| 34 | Ink Blot | 38 | Starfield |
+| 47 | Slow Drifting | - | - |
+
+---
+
+### 🖐️ Gesture Triggers
+
+| Trigger | Available Actions |
+|---------|-------------------|
+| Left Edge | Launch App, Open Settings, Flashlight, Kill App, Quick Settings |
+| Right Edge | Do Nothing, or any of the above |
+| Top Edge | Any action |
+| Bottom Edge | Any action |
+
+---
+
+## 📥 **DOWNLOAD**
+
+[![Download APK](https://img.shields.io/badge/Download-AURA_CTRL_v2.0-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases/download/v2.0/AURA_CTRL_v2.0.apk)
+
+**File Size:** 18 MB
+
+---
+
+## 🔧 **INSTALLATION**
+
+### Prerequisites
+- ✅ Rooted device with **LSPosed Framework** installed
+- ✅ Android 14, 15, or 16
+
+### Steps
+1. Download the APK from above
+2. Install the APK
+3. Open **LSPosed Manager** → Modules → Enable **AuraCtrl**
+4. Select **System Framework** (for most features) + your desired apps for List Animations
+5. Reboot your device
+6. Open AuraCtrl app → Customize!
+
+---
+
+## 📊 **COMPATIBILITY**
+
+| Android Version | Success Rate |
+|----------------|--------------|
+| Android 16 | ✅ 100% |
+| Android 15 | ✅ 100% |
+| Android 14 | ✅ 100% |
+| Android 13 (Custom ROMs) | ⚠️ 70% |
+| Android 12 and below | ❌ Not supported |
+
+---
+
+## 📦 **SIZE COMPARISON**
+
+| Version | Size | Change |
+|---------|------|--------|
+| v1.1 | 280 MB | - |
+| **v2.0** | **18 MB** | **⬇️ 93% smaller!** |
+
+**How?** Boot animations & GIF previews now download on-demand!
+
+---
+
+## 🐛 **TROUBLESHOOTING**
+
+| Issue | Solution |
+|-------|----------|
+| Pulse animation not showing | Disable system built-in pulse in your ROM settings |
+| List animations not working | Select the app in LSPosed Manager (e.g., Settings, WhatsApp) |
+| Boot animation not applying | Check if you have root + grant storage permission |
+| Video wallpaper not appearing | Manually select "Live Wallpaper" from Wallpaper picker first time |
+
+---
+
+## 🗺️ **ROADMAP**
+
+- [x] Android 16 support
+- [x] Pulse animation everywhere
+- [x] Video wallpaper
+- [x] 35+ boot animations with previews
+- [x] Battery icon/text color
+- [x] 93% APK size reduction
+- [ ] Custom boot animation creator
+- [ ] More pulse color modes
+- [ ] Cloud backup of settings
+
+---
+
+## 📱 **SCREENSHOTS GALLERY**
+
+<p align="center">
+  <img src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Images/battery-icon-color.jpg" width="200"/>
+  <img src="https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/blob/main/Images/battery-icon-shapes.jpg" width="200"/>
+</p>
+
+---
+
+## 📄 **LICENSE & DISCLAIMER**
+⚠️ DISCLAIMER
+
+    AURA CTRL modifies UI/UX behavior at runtime only
+
+    Does NOT modify app code or system files permanently
+
+    Use at your own risk
+
+    Developer is NOT responsible for any damage
+
+
+    
+---
+
+## 🌟 **SUPPORT THE PROJECT**
+
+If you like AuraCtrl, please:
+- ⭐ Star this repository
+- 📢 Share on XDA / Reddit / Telegram
+- 💬 Leave feedback
+
+---
+
+<div align="center">
+  Made with ❤️ by <b>VADDEMPUDI GNANESH</b>
+  <br><br>
+  <sub>LSPosed Module for Android 14+</sub>
+</div>
