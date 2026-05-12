@@ -88,7 +88,7 @@ It works across system and third-party apps **without modifying any app code**.
 
 ---
 ## 📥 Download
-[Download AURA CTRL v2.0_LSPosed APK](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases/download/v2.0/AURA CTRL v2.0.apk)
+[Download AURA CTRL v2.0_LSPosed APK](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases/download/v2.0/AURA_CTRL_v2.0.apk)
 
 ---
 
