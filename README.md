@@ -148,7 +148,7 @@ Add custom text and color to your status bar clock
 </p>
 
 <p align="center">
-  <img src="https://xdaforums.com/attachments/final-jpeg.6345629/" width="600" alt="Clock Text Customization"/>
+  <img src="Images/arch.jpeg" width="600" alt="Clock Text Customization"/>
 </p>
 
 <p align="center">
