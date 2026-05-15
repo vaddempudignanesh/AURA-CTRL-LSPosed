@@ -140,6 +140,36 @@ Swirl • Wave • Stretch • Zoom • 3D Sphere • 3D Dice • 3D Diamond •
 > **Tip:** Works best with apps like messaging apps, social media, file managers — anywhere lists appear!
 
 ---
+
+## 🕒 **CLOCK TEXT CUSTOMIZATION**
+
+<p align="center">
+Add custom text and color to your status bar clock
+</p>
+
+<p align="center">
+  <img src="https://xdaforums.com/attachments/final-jpeg.6345629/" width="600" alt="Clock Text Customization"/>
+</p>
+
+<p align="center">
+<b>✨ Customization Options:</b><br>
+• <b>Custom Text</b> – Add any text as prefix or suffix (e.g., HI, 🔋, ✨, AURA)<br>
+• <b>Text Position</b> – Choose "Suffix (After)" or "Prefix (Before)"<br>
+• <b>Text Color</b> – Pick any solid color using RGB picker<br>
+• <b>Leave empty to disable</b> – No custom text = default clock
+</p>
+
+<p align="center">
+<b>📱 Examples:</b><br>
+• Enter "HI" → "10:30 AM HI" (Suffix)<br>
+• Enter "✨" → "✨ 10:30 AM" (Prefix)<br>
+• Enter "AURA" → "10:30 AM AURA"
+</p>
+
+> 💡 **Note:** Color applies to the entire clock text only. Emojis may not change color. Leave text field empty to disable custom text.
+
+---
+
 ## 🔋 **BATTERY CUSTOMIZATION**
 
 <p align="center">
