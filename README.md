@@ -11,7 +11,7 @@
 <h3>Complete Android Customization Suite</h3>
 <p>Pulse Animations • Status Bar Tweaks • List Animations • Boot Animations • Video Wallpaper • Gesture Triggers</p>
 
-[📥 Download Now](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases/download/v2.1/AURA_CTRL_v2.1.apk) &nbsp;&nbsp; [📖 Documentation](#-features) &nbsp;&nbsp; [📹 Watch Demos](#-demo-videos)
+[📥 Download Now](https://github.com/vaddempudignanesh/AURA-CTRL-LSPosed/releases/download/v3.1/AURA_CTRL_v3.1.apk) &nbsp;&nbsp; [📖 Documentation](#-features) &nbsp;&nbsp; [📹 Watch Demos](#-demo-videos)
 
 </div>
 
