@@ -283,3 +283,18 @@ This project is under <b>active maintenance</b> by me
   Made with ❤️ by <b>VADDEMPUDI GNANESH</b>
 </div>
 </div>
+
+
+---
+
+## ⚖️ Legal Policies (Merchant Compliance)
+
+### 🔒 Privacy Policy
+AURA CTRL does not collect, log, store, or share any personal data, banking details, or sensitive user information. Any custom configurations or operational logs remain securely isolated within the local device storage system. We do not use third-party tracking scripts or remote telemetry networks.
+
+### 📜 Terms & Conditions
+By selecting to utilize the AURA CTRL LSPosed framework customization module, you acknowledge and agree that this software requires deep root file hooks (Magisk/KernelSU) to operate. The software is provided entirely "as-is" without explicit or implied functional warranties. The development team is not responsible for device soft-locks, hardware issues, or improper system utilization.
+
+### 🔄 Refund & Cancellation Policy
+Donations submitted to support the open-source development of AURA CTRL are purely voluntary contributions to sustain project infrastructure. Because donations are non-commercial support payments rather than tangible retail purchases, all submitted transactions are final, non-refundable, and ineligible for structural cancellation processing.
+
